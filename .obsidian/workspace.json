@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          },
-          {
-            "id": "9faadeabc1af00a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Some note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Some note"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "064a2954902b7cbd",
@@ -215,8 +200,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9faadeabc1af00a6",
+  "active": "a1bd3cdd9ad97b5e",
   "lastOpenFiles": [
+    "DSA",
+    "AI Agents",
+    "AI & DL",
     "Welcome.md",
     "Some note.md"
   ]
