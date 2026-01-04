@@ -1,0 +1,7 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-blackout",
+  "encore-settings@@colors": "encore-colors-neutral",
+  "encore-settings@@encore-translucency": false,
+  "encore-settings@@encore-translucency-strength": 0.65,
+  "encore-settings@@encore-translucency-background": "encore-bg-frosty"
+}
