@@ -1,3 +1,8 @@
 [
-  "github-sync"
+  "github-sync",
+  "table-editor-obsidian",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin"
 ]
